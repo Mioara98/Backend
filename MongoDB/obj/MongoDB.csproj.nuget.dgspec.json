@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mioara\\Desktop\\MongoDB\\MongoDB.csproj": {}
+    "C:\\Users\\Mioara\\Desktop\\Backend\\MongoDB\\MongoDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj": {
+    "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Mioara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mioara\\Desktop\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mioara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Mioara\\Desktop\\MongoDB\\MongoDB.csproj": {
+    "C:\\Users\\Mioara\\Desktop\\Backend\\MongoDB\\MongoDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mioara\\Desktop\\MongoDB\\MongoDB.csproj",
+        "projectUniqueName": "C:\\Users\\Mioara\\Desktop\\Backend\\MongoDB\\MongoDB.csproj",
         "projectName": "MongoDB",
-        "projectPath": "C:\\Users\\Mioara\\Desktop\\MongoDB\\MongoDB.csproj",
+        "projectPath": "C:\\Users\\Mioara\\Desktop\\Backend\\MongoDB\\MongoDB.csproj",
         "packagesPath": "C:\\Users\\Mioara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mioara\\Desktop\\MongoDB\\obj\\",
+        "outputPath": "C:\\Users\\Mioara\\Desktop\\Backend\\MongoDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mioara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj"
+              "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\Domain.csproj"
               }
             }
           }

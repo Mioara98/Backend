@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Domain.AnStudiu.AnStudiuDTO
 {
-    internal class AnStudiuDTO
+    public class AnStudiuDTO
     {
+
     }
 }

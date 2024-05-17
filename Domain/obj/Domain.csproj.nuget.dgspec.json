@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj": {
+    "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Mioara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mioara\\Desktop\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Mioara\\Desktop\\Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mioara\\AppData\\Roaming\\NuGet\\NuGet.Config",

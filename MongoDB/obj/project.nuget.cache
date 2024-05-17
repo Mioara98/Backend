@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CZ7X0h2+T7uzNWdv/0zVfZtmNxsMn10v5XS5B6N/vkODlTIqwG5U98u/HeSf92cnldOzwUC3OPuaLiyUFXUbcQ==",
+  "dgSpecHash": "x7ask+MfEROS3kuW+3tyTYHXtM2xDNVg6d6EMBF+/Q9Jg+HceQN1LAyeBiCLM4ZCIYAEErPS4EJIqWrRUSOXXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mioara\\Desktop\\MongoDB\\MongoDB.csproj",
+  "projectFilePath": "C:\\Users\\Mioara\\Desktop\\Backend\\MongoDB\\MongoDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mioara\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Mioara\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

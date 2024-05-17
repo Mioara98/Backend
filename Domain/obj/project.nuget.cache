@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b95OUxFw5C+G3AlJ8Iqe07BZYyP0CQOoplj848lAPdegtmfszI87zzarcZ0VfvmjO6zipk6w9ofPvvrZU1lKjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mioara\\Desktop\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mioara\\.nuget\\packages\\mongodb.bson\\2.25.0\\mongodb.bson.2.25.0.nupkg.sha512",
+    "C:\\Users\\Mioara\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Mioara\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

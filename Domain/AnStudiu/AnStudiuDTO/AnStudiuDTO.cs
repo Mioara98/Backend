@@ -8,6 +8,8 @@ namespace Domain.AnStudiu.AnStudiuDTO
 {
     public class AnStudiuDTO
     {
-
+        public string NumeaAnStudiu{ get; set; }
+        public List<string> Semestre { get; set; }
+        public string NumeAnStudiu { get; set; }
     }
 }
